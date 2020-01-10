@@ -4,7 +4,7 @@
 
 
 
-#### omg, welcome to class!
+#### *omg, welcome to class!*
 
 ![Bear](https://github.com/Orthelious/ProfDevCreativePractices_Spring2019/blob/master/images/BearWave.gif?raw=true)
 
@@ -24,6 +24,11 @@
 2. [Course Framing and Approach](#framing)  
 
 # <a name="intro">1. Introductions</a>
+
+A. Who Am I?
+B. Who Are You?
+
+
 
 ## A. WHO AM I?
 
@@ -59,18 +64,29 @@ Heinz College, Carnegie Mellon University
 
 # <a name="syllabus">2. Syllabus review</a>
 
-* *[Let's take a walk down syllabus lane](https://github.com/Orthelious/PDCP_F19/wiki/Syllabus)*
+* *[Let's take a walk down syllabus lane](https://github.com/Orthelious/pdcp_2020/wiki/Syllabus)*
 
 ***
 
 # <a name="framing"> 3. Course Framing and Approach</a>
 
+A. What is this course?
+B. Our Approach
+C. A Few Guiding Philosophies 
+D. Thoughts on Scope and Scale
+
+
+
 ## A. What is this course?
+
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/Travolta.gif)
 
 * A course in business fundamentals and professional skills with CFA majors—*Art in particular*—in mind.  
 * The content of this course is designed based on the most common questions I receive from current students and CFA alumni.
-* This course is about *introductions to concepts*.  
+* This course is about *introductions to concepts*. 
+* Note about primers 
+
+
 
 ## B. Our Approach
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/Eams_PowersofTen.gif)  
