@@ -30,23 +30,22 @@ B. Who Are You?
 
 ## A. WHO AM I?
 
- 
+![](https://github.com/Orthelious/pdcp_2020/blob/master/Images/6DB6E190-D47C-4920-8107-D187B39E143C.jpg?raw=true) 
 
 ### _Tom Hughes_  
-**Associate Director**  
-[Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)   
+**Associate Director**, [Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/)   
 College of Fine Arts, Room 111  
-**Adjunct Professor of Arts Management**  
-[CMU School of Art](http://www.art.cmu.edu)
+**Adjunct Professor of Arts Management**, [CMU School of Art](http://www.art.cmu.edu)
 
-* [Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/). We're a laboratory for atypical, anti-disciplinary, and inter-institutional research at the intersections of arts, science, technology and culture.
-
-* [Master of Arts Management ](https://www.heinz.cmu.edu/programs/arts-management-master/) (MAM), 2012  
+**Education**
+[Master of Arts Management ](https://www.heinz.cmu.edu/programs/arts-management-master/) (MAM), 2012 
 Heinz College, Carnegie Mellon University
 
-* [Bachelor of Fine Arts](https://www.bgsu.edu/arts-and-sciences.html) (BFA), 2008   
-	Bowling Green State University
-* A few of the places I've worked for and worked with:  
+[Bachelor of Fine Arts](https://www.bgsu.edu/arts-and-sciences.html) (BFA), 2008   
+Bowling Green State University
+
+**Professional Background**
+A few of the places I've worked for and worked with:  
 [Assemble](http://assemblepgh.org/), [Attack Theatre](https://www.attacktheatre.com/), [ATONATON](https://atonaton.com/), [Bunker Projects](http://www.bunkerprojects.org/), [Contemporary Craft](https://contemporarycraft.org/), [Conflict Kitchen](https://www.conflictkitchen.org/), [The Drift](http://www.the-drift.org/),[The Mattress Factory](https://www.mattress.org/), [The National Endowment for the Arts](https://www.arts.gov/), [The Processing Foundation](https://processingfoundation.org/), [Prototype](https://prototypepgh.com/), [VIA Festival](http://www.via-festival.com/), [The Wick Editor](http://wickeditor.com/). 
 
 
