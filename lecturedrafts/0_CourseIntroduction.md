@@ -70,14 +70,18 @@ Heinz College, Carnegie Mellon University
 
 # <a name="framing"> 3. Course Framing and Approach</a>
 
-A. What is this course?
+A. How this course works
 B. Our Approach
 C. A Few Guiding Philosophies 
 D. Thoughts on Scope and Scale
 
 
 
-## A. What is this course?
+## A. How this course works
+
+This class is a series of primers for those new to business. You've all interacted with a business in some way, shape or form—so 
+
+
 
 ![](https://github.com/Orthelious/PDCP_Spring2019/blob/master/images/Travolta.gif)
 
